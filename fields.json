@@ -1,0 +1,1023 @@
+{
+  "fields": [
+    {
+      "id": 2015581,
+      "name": "firstname",
+      "label": "First Name",
+      "type": null,
+      "column": 1,
+      "position": 1,
+      "hybrid": false
+    },
+    {
+      "id": 2015582,
+      "name": "lastname",
+      "label": "Last Name",
+      "type": null,
+      "column": 1,
+      "position": 2,
+      "hybrid": false
+    },
+    {
+      "id": 2015593,
+      "name": "relatedto",
+      "label": "Related To",
+      "type": null,
+      "column": 1,
+      "position": 3,
+      "hybrid": false
+    },
+    {
+      "id": 2015598,
+      "name": "company",
+      "label": "Company",
+      "type": null,
+      "column": 1,
+      "position": 4,
+      "hybrid": false
+    },
+    {
+      "id": 2015588,
+      "name": "website",
+      "label": "Website",
+      "type": null,
+      "column": 1,
+      "position": 5,
+      "hybrid": false
+    },
+    {
+      "id": 2031487,
+      "name": "custom2031487",
+      "label": "DL#",
+      "type": "text",
+      "column": 1,
+      "position": 6,
+      "hybrid": false
+    },
+    {
+      "id": 18455690,
+      "name": "custom18455690",
+      "label": "Street",
+      "type": "text",
+      "column": 1,
+      "position": 7,
+      "hybrid": false
+    },
+    {
+      "id": 18455691,
+      "name": "custom18455691",
+      "label": "City",
+      "type": "text",
+      "column": 1,
+      "position": 8,
+      "hybrid": false
+    },
+    {
+      "id": 18455692,
+      "name": "custom18455692",
+      "label": "State",
+      "type": "text",
+      "column": 1,
+      "position": 9,
+      "hybrid": false
+    },
+    {
+      "id": 18455693,
+      "name": "custom18455693",
+      "label": "Zip Code",
+      "type": "text",
+      "column": 1,
+      "position": 10,
+      "hybrid": false
+    },
+    {
+      "id": 18456112,
+      "name": "custom18456112",
+      "label": "Country",
+      "type": "select",
+      "options": [
+        "United States",
+        "Other"
+      ],
+      "column": 1,
+      "position": 11,
+      "hybrid": false
+    },
+    {
+      "id": 2015597,
+      "name": "homeaddress",
+      "label": "Address (old)",
+      "type": "address",
+      "column": 1,
+      "position": 12,
+      "hybrid": false
+    },
+    {
+      "id": 2015587,
+      "name": "businessphonedirect",
+      "label": "Home Phone",
+      "type": "phonenumber",
+      "column": 1,
+      "position": 13,
+      "hybrid": false
+    },
+    {
+      "id": 2015594,
+      "name": "homephone",
+      "label": "Other Phone",
+      "type": "phonenumber",
+      "column": 1,
+      "position": 14,
+      "hybrid": false
+    },
+    {
+      "id": 2015592,
+      "name": "cellularphone",
+      "label": "Mobile Phone",
+      "type": "phonenumber",
+      "column": 1,
+      "position": 15,
+      "hybrid": false
+    },
+    {
+      "id": 2015596,
+      "name": "businessemail",
+      "label": "Email",
+      "type": "email",
+      "column": 1,
+      "position": 16,
+      "hybrid": false
+    },
+    {
+      "id": 2015589,
+      "name": "personalemail",
+      "label": "Email 2",
+      "type": "email",
+      "column": 1,
+      "position": 17,
+      "hybrid": false
+    },
+    {
+      "id": 2030576,
+      "name": "custom2030576",
+      "label": "Birthday",
+      "type": "date",
+      "column": 1,
+      "position": 18,
+      "hybrid": false
+    },
+    {
+      "id": 2027752,
+      "name": "custom2027752",
+      "label": "Interest",
+      "type": "multiselect",
+      "options": [
+        "Fitness-Health-Energy ",
+        "Discipline-Motivation ",
+        "Instructor Program ",
+        "Self Defense ",
+        "Competition "
+      ],
+      "column": 1,
+      "position": 19,
+      "hybrid": false
+    },
+    {
+      "id": 2028427,
+      "name": "custom2028427",
+      "label": "Interest Details",
+      "type": "text",
+      "column": 1,
+      "position": 20,
+      "hybrid": false
+    },
+    {
+      "id": 2027758,
+      "name": "custom2027758",
+      "label": "Referred By",
+      "type": "multiselect",
+      "options": [
+        "Internet",
+        "Web Self Sign Up",
+        "Word of Mouth",
+        "Store Front",
+        "TV",
+        "Radio",
+        "Phone Book",
+        "Mail",
+        "Newspaper"
+      ],
+      "column": 1,
+      "position": 21,
+      "hybrid": false
+    },
+    {
+      "id": 2028428,
+      "name": "custom2028428",
+      "label": "Referred Details",
+      "type": "text",
+      "column": 1,
+      "position": 22,
+      "hybrid": false
+    },
+    {
+      "id": 2030577,
+      "name": "custom2030577",
+      "label": "PreTraining",
+      "type": "text",
+      "column": 1,
+      "position": 23,
+      "hybrid": false
+    },
+    {
+      "id": 2028120,
+      "name": "custom2028120",
+      "label": "Emergency Contact",
+      "type": "text",
+      "column": 1,
+      "position": 24,
+      "hybrid": false
+    },
+    {
+      "id": 2030879,
+      "name": "custom2030879",
+      "label": "Existing Medical",
+      "type": "text",
+      "column": 1,
+      "position": 25,
+      "hybrid": false
+    },
+    {
+      "id": 2030881,
+      "name": "custom2030881",
+      "label": "Instructor",
+      "type": "text",
+      "column": 1,
+      "position": 26,
+      "hybrid": false
+    },
+    {
+      "id": 2030882,
+      "name": "custom2030882",
+      "label": "Asst Instructor",
+      "type": "text",
+      "column": 1,
+      "position": 27,
+      "hybrid": false
+    },
+    {
+      "id": 2170628,
+      "name": "custom2170628",
+      "label": "Original Join Date",
+      "type": "date",
+      "column": 1,
+      "position": 28,
+      "hybrid": false
+    },
+    {
+      "id": 2170629,
+      "name": "custom2170629",
+      "label": "Recent Join Date",
+      "type": "date",
+      "column": 1,
+      "position": 29,
+      "hybrid": false
+    },
+    {
+      "id": 2154644,
+      "name": "custom2154644",
+      "label": "Seniority",
+      "type": "number",
+      "column": 1,
+      "position": 30,
+      "hybrid": false
+    },
+    {
+      "id": 11822482,
+      "name": "custom11822482",
+      "label": "Last Mail",
+      "type": "sectionbreak",
+      "column": 1,
+      "position": 31,
+      "hybrid": true
+    },
+    {
+      "id": 2169362,
+      "name": "custom2169362",
+      "label": "Last Mail Date",
+      "type": "date",
+      "column": 1,
+      "position": 32,
+      "hybrid": false
+    },
+    {
+      "id": 8019101,
+      "name": "custom8019101",
+      "label": "Last Mail Info",
+      "type": "text",
+      "column": 1,
+      "position": 33,
+      "hybrid": false
+    },
+    {
+      "id": 18456528,
+      "name": "custom18456528",
+      "label": "Do Not Call - Text - Email Requests",
+      "type": "sectionbreak",
+      "column": 1,
+      "position": 34,
+      "hybrid": true
+    },
+    {
+      "id": 18456526,
+      "name": "custom18456526",
+      "label": "Do Not Call-Text On",
+      "type": "date",
+      "column": 1,
+      "position": 35,
+      "hybrid": false
+    },
+    {
+      "id": 18456527,
+      "name": "custom18456527",
+      "label": "Do Not Email On",
+      "type": "date",
+      "column": 1,
+      "position": 36,
+      "hybrid": false
+    },
+    {
+      "id": 9144319,
+      "name": "logo",
+      "label": "Avatar",
+      "type": "logo",
+      "column": 2,
+      "position": 1,
+      "hybrid": false
+    },
+    {
+      "id": 2015586,
+      "name": "assignedto",
+      "label": "Assigned to",
+      "type": null,
+      "column": 2,
+      "position": 4,
+      "hybrid": false
+    },
+    {
+      "id": 2347793,
+      "name": "custom2347793",
+      "label": "Last Call-Email-SMS",
+      "type": "date",
+      "column": 2,
+      "position": 5,
+      "hybrid": false
+    },
+    {
+      "id": 3271946,
+      "name": "custom3271946",
+      "label": "Next Call-Email-SMS",
+      "type": "date",
+      "column": 2,
+      "position": 6,
+      "hybrid": false
+    },
+    {
+      "id": 12274283,
+      "name": "custom12274283",
+      "label": "Please Do Not Update Initial Dates In The Sections Below Marked *",
+      "type": "sectionbreak",
+      "column": 2,
+      "position": 7,
+      "hybrid": true
+    },
+    {
+      "id": 12431476,
+      "name": "custom12431476",
+      "label": "Assigned To Dojo On*",
+      "type": "date",
+      "column": 2,
+      "position": 8,
+      "hybrid": false
+    },
+    {
+      "id": 12462066,
+      "name": "custom12462066",
+      "label": "New Intro Appointment*",
+      "type": "date",
+      "column": 2,
+      "position": 9,
+      "hybrid": false
+    },
+    {
+      "id": 12093117,
+      "name": "custom12093117",
+      "label": " Non-Standard Prospects (WSD) Process",
+      "type": "sectionbreak",
+      "column": 2,
+      "position": 10,
+      "hybrid": true
+    },
+    {
+      "id": 12093118,
+      "name": "custom12093118",
+      "label": "NS Prospect ID On*",
+      "type": "date",
+      "column": 2,
+      "position": 11,
+      "hybrid": false
+    },
+    {
+      "id": 12093119,
+      "name": "custom12093119",
+      "label": "NS Appt Set For*",
+      "type": "date",
+      "column": 2,
+      "position": 12,
+      "hybrid": false
+    },
+    {
+      "id": 12093120,
+      "name": "custom12093120",
+      "label": "NS No Show On*",
+      "type": "date",
+      "column": 2,
+      "position": 13,
+      "hybrid": false
+    },
+    {
+      "id": 12421824,
+      "name": "custom12421824",
+      "label": "NS Reschedule On",
+      "type": "date",
+      "column": 2,
+      "position": 14,
+      "hybrid": false
+    },
+    {
+      "id": 12421825,
+      "name": "custom12421825",
+      "label": "NS Repeat No Show",
+      "type": "date",
+      "column": 2,
+      "position": 15,
+      "hybrid": false
+    },
+    {
+      "id": 11822444,
+      "name": "custom11822444",
+      "label": " Prospect To Visitor Process - Over 80%  should make Appointments. ",
+      "type": "sectionbreak",
+      "column": 2,
+      "position": 16,
+      "hybrid": true
+    },
+    {
+      "id": 11822424,
+      "name": "custom11822424",
+      "label": "Prospect ID On*",
+      "type": "date",
+      "column": 2,
+      "position": 17,
+      "hybrid": false
+    },
+    {
+      "id": 11822425,
+      "name": "custom11822425",
+      "label": "Visit Appt For*",
+      "type": "date",
+      "column": 2,
+      "position": 18,
+      "hybrid": false
+    },
+    {
+      "id": 11841240,
+      "name": "custom11841240",
+      "label": "VA No Show On*",
+      "type": "date",
+      "column": 2,
+      "position": 19,
+      "hybrid": false
+    },
+    {
+      "id": 12421826,
+      "name": "custom12421826",
+      "label": "VA Reschedule On",
+      "type": "date",
+      "column": 2,
+      "position": 20,
+      "hybrid": false
+    },
+    {
+      "id": 12421827,
+      "name": "custom12421827",
+      "label": "VA Repeat No Show",
+      "type": "date",
+      "column": 2,
+      "position": 21,
+      "hybrid": false
+    },
+    {
+      "id": 11822445,
+      "name": "custom11822445",
+      "label": " Visitor To Intro Class Process",
+      "type": "sectionbreak",
+      "column": 2,
+      "position": 22,
+      "hybrid": true
+    },
+    {
+      "id": 11822433,
+      "name": "custom11822433",
+      "label": "Visited On*",
+      "type": "date",
+      "column": 2,
+      "position": 23,
+      "hybrid": false
+    },
+    {
+      "id": 11822436,
+      "name": "custom11822436",
+      "label": "Set Intro Appt For*",
+      "type": "date",
+      "column": 2,
+      "position": 24,
+      "hybrid": false
+    },
+    {
+      "id": 11841246,
+      "name": "custom11841246",
+      "label": "IA No Show On*",
+      "type": "date",
+      "column": 2,
+      "position": 25,
+      "hybrid": false
+    },
+    {
+      "id": 12421828,
+      "name": "custom12421828",
+      "label": "IA Reschedule On",
+      "type": "date",
+      "column": 2,
+      "position": 26,
+      "hybrid": false
+    },
+    {
+      "id": 12421829,
+      "name": "custom12421829",
+      "label": "IA Repeat No Show",
+      "type": "date",
+      "column": 2,
+      "position": 27,
+      "hybrid": false
+    },
+    {
+      "id": 11822446,
+      "name": "custom11822446",
+      "label": " Intro Class To Enrollment Process - Target 80% Prospects to Intro.",
+      "type": "sectionbreak",
+      "column": 2,
+      "position": 28,
+      "hybrid": true
+    },
+    {
+      "id": 11822434,
+      "name": "custom11822434",
+      "label": "Intro Class On*",
+      "type": "date",
+      "column": 2,
+      "position": 29,
+      "hybrid": false
+    },
+    {
+      "id": 11822447,
+      "name": "custom11822447",
+      "label": "Set Join Appt For*",
+      "type": "date",
+      "column": 2,
+      "position": 30,
+      "hybrid": false
+    },
+    {
+      "id": 11841244,
+      "name": "custom11841244",
+      "label": "JA No Show On*",
+      "type": "date",
+      "column": 2,
+      "position": 31,
+      "hybrid": false
+    },
+    {
+      "id": 12421832,
+      "name": "custom12421832",
+      "label": "JA Reschedule On",
+      "type": "date",
+      "column": 2,
+      "position": 32,
+      "hybrid": false
+    },
+    {
+      "id": 12421833,
+      "name": "custom12421833",
+      "label": "JA Repeat No Show",
+      "type": "date",
+      "column": 2,
+      "position": 33,
+      "hybrid": false
+    },
+    {
+      "id": 11822459,
+      "name": "custom11822459",
+      "label": " Trial Membership Follow Up Process",
+      "type": "sectionbreak",
+      "column": 2,
+      "position": 34,
+      "hybrid": true
+    },
+    {
+      "id": 11822463,
+      "name": "custom11822463",
+      "label": "Trial Membership On*",
+      "type": "date",
+      "column": 2,
+      "position": 35,
+      "hybrid": false
+    },
+    {
+      "id": 11822466,
+      "name": "custom11822466",
+      "label": "Set Full Join Appt For*",
+      "type": "date",
+      "column": 2,
+      "position": 36,
+      "hybrid": false
+    },
+    {
+      "id": 11841248,
+      "name": "custom11841248",
+      "label": "FJ No Show On*",
+      "type": "date",
+      "column": 2,
+      "position": 37,
+      "hybrid": false
+    },
+    {
+      "id": 12421834,
+      "name": "custom12421834",
+      "label": "FJ Reschedule On",
+      "type": "date",
+      "column": 2,
+      "position": 38,
+      "hybrid": false
+    },
+    {
+      "id": 12421835,
+      "name": "custom12421835",
+      "label": "FJ Repeat No Show",
+      "type": "date",
+      "column": 2,
+      "position": 39,
+      "hybrid": false
+    },
+    {
+      "id": 11822471,
+      "name": "custom11822471",
+      "label": "Core Membership Follow Up Process - Target 80% Intros to Full.",
+      "type": "sectionbreak",
+      "column": 2,
+      "position": 40,
+      "hybrid": true
+    },
+    {
+      "id": 11822472,
+      "name": "custom11822472",
+      "label": "Core Membership On*",
+      "type": "date",
+      "column": 2,
+      "position": 41,
+      "hybrid": false
+    },
+    {
+      "id": 11822476,
+      "name": "custom11822476",
+      "label": "Set Upgrade Appt For*",
+      "type": "date",
+      "categories": [
+        4930224
+      ],
+      "column": 2,
+      "position": 42,
+      "hybrid": false
+    },
+    {
+      "id": 11842033,
+      "name": "custom11842033",
+      "label": "UA No Show On*",
+      "type": "date",
+      "categories": [
+        4930224
+      ],
+      "column": 2,
+      "position": 43,
+      "hybrid": false
+    },
+    {
+      "id": 18455701,
+      "name": "custom18455701",
+      "label": "UA Reschedule On",
+      "type": "date",
+      "categories": [
+        4930224
+      ],
+      "column": 2,
+      "position": 44,
+      "hybrid": false
+    },
+    {
+      "id": 18455702,
+      "name": "custom18455702",
+      "label": "UA Repeat No Show",
+      "type": "date",
+      "categories": [
+        4930224
+      ],
+      "column": 2,
+      "position": 45,
+      "hybrid": false
+    },
+    {
+      "id": 11822461,
+      "name": "custom11822461",
+      "label": "Advanced Memberships",
+      "type": "sectionbreak",
+      "categories": [
+        4930224
+      ],
+      "column": 2,
+      "position": 46,
+      "hybrid": true
+    },
+    {
+      "id": 18455695,
+      "name": "custom18455695",
+      "label": "Adv Training Group On*",
+      "type": "date",
+      "categories": [
+        4930224
+      ],
+      "column": 2,
+      "position": 47,
+      "hybrid": false
+    },
+    {
+      "id": 18455696,
+      "name": "custom18455696",
+      "label": "Mastery Group On*",
+      "type": "date",
+      "categories": [
+        4930224
+      ],
+      "column": 2,
+      "position": 48,
+      "hybrid": false
+    },
+    {
+      "id": 18455697,
+      "name": "custom18455697",
+      "label": "Special Teams On*",
+      "type": "date",
+      "categories": [
+        4930224
+      ],
+      "column": 2,
+      "position": 49,
+      "hybrid": false
+    },
+    {
+      "id": 18456113,
+      "name": "custom18456113",
+      "label": "Leadership Teams Process",
+      "type": "sectionbreak",
+      "categories": [
+        4930224
+      ],
+      "column": 2,
+      "position": 50,
+      "hybrid": true
+    },
+    {
+      "id": 11822457,
+      "name": "custom11822457",
+      "label": "Coach-Assist Team On*",
+      "type": "date",
+      "categories": [
+        4930224
+      ],
+      "column": 2,
+      "position": 51,
+      "hybrid": false
+    },
+    {
+      "id": 18456114,
+      "name": "custom18456114",
+      "label": "Instructor Team On*",
+      "type": "date",
+      "categories": [
+        4930224
+      ],
+      "column": 2,
+      "position": 52,
+      "hybrid": false
+    },
+    {
+      "id": 11822485,
+      "name": "custom11822485",
+      "label": "Cancel Information",
+      "type": "sectionbreak",
+      "categories": [
+        4930221
+      ],
+      "column": 2,
+      "position": 53,
+      "hybrid": true
+    },
+    {
+      "id": 2171243,
+      "name": "custom2171243",
+      "label": "Cancel Feedback",
+      "type": "select",
+      "options": [
+        "Only Good Feedback - See Below",
+        "Some Bad Feedback - See Below",
+        "No Feedback or Neutral Feedback"
+      ],
+      "categories": [
+        4930221
+      ],
+      "column": 2,
+      "position": 54,
+      "hybrid": false
+    },
+    {
+      "id": 2170935,
+      "name": "custom2170935",
+      "label": "Feedback Details",
+      "type": "textarea",
+      "categories": [
+        4930221
+      ],
+      "column": 2,
+      "position": 55,
+      "hybrid": false
+    },
+    {
+      "id": 2170010,
+      "name": "custom2170010",
+      "label": "Type of Cancel",
+      "type": "select",
+      "options": [
+        "Gave 30 Day Notice On",
+        "No Notice - Last Payment Due On"
+      ],
+      "categories": [
+        4930221
+      ],
+      "column": 2,
+      "position": 56,
+      "hybrid": false
+    },
+    {
+      "id": 2169668,
+      "name": "custom2169668",
+      "label": "Type of Cancel Date",
+      "type": "date",
+      "categories": [
+        4930221
+      ],
+      "column": 2,
+      "position": 57,
+      "hybrid": false
+    },
+    {
+      "id": 2169986,
+      "name": "custom2169986",
+      "label": "Notice Time Of Day",
+      "type": "text",
+      "categories": [
+        4930221
+      ],
+      "column": 2,
+      "position": 58,
+      "hybrid": false
+    },
+    {
+      "id": 2173130,
+      "name": "custom2173130",
+      "label": "Cancel Rank Level",
+      "type": "select",
+      "options": [
+        "KB or Other Class",
+        "W1-MMA",
+        "W2-MMA",
+        "W3-MMA",
+        "G1-MMA",
+        "G2-MMA",
+        "G3-MMA",
+        "O1-MMA",
+        "O2-MMA",
+        "O3-MMA",
+        "R1-MMA",
+        "R2-MMA",
+        "R3-MMA",
+        "B1-MMA",
+        "B2-MMA",
+        "B3-MMA",
+        "Black1-MMA",
+        "Black2-MMA",
+        "Black3-MMA",
+        "W1-JuniorMMA",
+        "W2-JuniorMMA",
+        "W3-JuniorMMA",
+        "Y1-JuniorMMA",
+        "Y2-JuniorMMA",
+        "Y3-JuniorMMA",
+        "O1-JuniorMMA",
+        "O2-JuniorMMA",
+        "O3-JuniorMMA",
+        "G1-JuniorMMA",
+        "G2-JuniorMMA",
+        "G3-JuniorMMA",
+        "B1-JuniorMMA",
+        "B2-JuniorMMA",
+        "B3-JuniorMMA",
+        "Black1-JuniorMMA",
+        "Black2-JuniorMMA",
+        "Black3-JuniorMMA"
+      ],
+      "categories": [
+        4930221
+      ],
+      "column": 2,
+      "position": 59,
+      "hybrid": false
+    },
+    {
+      "id": 2170013,
+      "name": "custom2170013",
+      "label": "Last P-Class Before C",
+      "type": "date",
+      "categories": [
+        4930221
+      ],
+      "column": 2,
+      "position": 60,
+      "hybrid": false
+    },
+    {
+      "id": 2171551,
+      "name": "custom2171551",
+      "label": "Last P-Class Before C",
+      "type": "text",
+      "categories": [
+        4930221
+      ],
+      "column": 2,
+      "position": 61,
+      "hybrid": false
+    },
+    {
+      "id": 2170319,
+      "name": "custom2170319",
+      "label": "Last Class Instructor",
+      "type": "text",
+      "categories": [
+        4930221
+      ],
+      "column": 2,
+      "position": 62,
+      "hybrid": false
+    },
+    {
+      "id": 2170320,
+      "name": "custom2170320",
+      "label": "Last Class Assistant",
+      "type": "text",
+      "categories": [
+        4930221
+      ],
+      "column": 2,
+      "position": 63,
+      "hybrid": false
+    },
+    {
+      "id": 2015584,
+      "name": "background",
+      "label": "Background",
+      "type": "html",
+      "column": null,
+      "position": null,
+      "hybrid": false
+    }
+  ],
+  "status": "success"
+}
